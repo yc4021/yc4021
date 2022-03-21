@@ -21,8 +21,6 @@ Favorite Color: Pink
 Favorite Movie: Dead Poets Society 
 Hobbies: Dancing, Vlogging, Discovering New Music 
 
--->
-
 <!--
 **yc4021/yc4021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
