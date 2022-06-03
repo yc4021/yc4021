@@ -3,7 +3,7 @@
 Made in Korea 
 Exported to Pennsylvania 
 Repackaged in New York City 
-Delievery Location to ??
+Delivery Location to ??
 
 I'm a current graduate student at Columbia University studying Quantitative Methods in Social Sciences looking forward for the next stop in my journey after graduating in May of 2022. Beginning my academic career in international politics at the Pennsylvania State University, I have a robust foundation in the social sciences. Data became the key to understanding these social sciences at its core. We need data to analyze our information, visualize relationships, and predict future trends. But what I love most about data is how applicable it is to almost any industry. 
 
